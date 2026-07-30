@@ -162,7 +162,7 @@ datathon-7mlet-grupo-XX/
 
 ## 📚 Documentação Completa
 
-Veja [**PLANO_EXECUCAO.md**](./PLANO_EXECUCAO.md) para as 9 fases de desenvolvimento.
+Veja [**PLANO_EXECUCAO.md**](./doc/PLANO_EXECUCAO.md) para as 9 fases de desenvolvimento.
 
 Veja [**doc/datathon.md**](./doc/datathon.md) para o briefing completo do desafio.
 
