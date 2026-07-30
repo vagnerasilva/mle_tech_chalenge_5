@@ -116,3 +116,4 @@ ehthumbs.db
 *.pyo
 *.pyd
 .Python
+/doc/FASES_DETALHADAS.md
